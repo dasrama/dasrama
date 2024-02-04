@@ -1,5 +1,5 @@
                                          👋 Hi, I’m rama prasad das
-- 🌱 I’m currently learning about data science and exploring the field of machine learning.
+- 🌱 I’m currently learning about api and exploring the web development.Currently working on flask and django.
 - 📫 you can reach out to me on linkedin
 
 <!---
