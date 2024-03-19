@@ -1,4 +1,4 @@
-![Header]([file:///C:/Users/91866/Documents/personal_files/banner%20image.png](https://postimg.cc/Lh6yh1Ks))
+[![banner-image.png](https://i.postimg.cc/c1fP9RFf/banner-image.png)](https://postimg.cc/Lh6yh1Ks)
 <h1 align="center">Hi 👋, I'm Rama Prasad Das</h1>
 <h3 align="center">A passionate software developer from India</h3>
 <img align = "right" width="400" src="https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif" alt="coding">
