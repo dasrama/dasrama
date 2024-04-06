@@ -2,7 +2,7 @@
 <h3 align="center">A passionate software developer from India</h3>
 <img align = "right" width="400" src="https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif" alt="coding">
 
-- 🔭 I’m currently working on **SplitBill (bill splitting website))**
+- 🔭 I’m currently working on **BLOGBOX (FastAPI based Blog API)**
 
 - 🌱 I’m currently learning **FastAPI**
 
