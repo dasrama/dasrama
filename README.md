@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rama Prasad Das</h1>
 <h3 align="center">A passionate software developer from India</h3>
-<img align="right" width="400" src="https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif" alt="coding" style="margin-left: 20px;">
+<img align="right" width="400" src="https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif" alt="coding" style="margin-left: 30px;">
 
 - 🔭 I’m currently working on **BLOGBOX (Blog API)**
 
