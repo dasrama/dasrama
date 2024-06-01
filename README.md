@@ -2,11 +2,11 @@
 <h3 align="center">A passionate software developer from India</h3>
 <img align="right" width="400" src="https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif" alt="coding" style="margin-left: 20px;">
 
-- 🔭 I’m currently working on **BLOGBOX (Blog API)**
+- 👉 I’m currently working on **BLOGBOX (Blog API)**
 
-- 🌱 I’m currently learning **FastAPI**
+- ✌️ I’m currently learning **FastAPI**
 
-- 📫 How to reach me **ramadas4736@gmail.com**
+- 🙌 How to reach me **ramadas4736@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
