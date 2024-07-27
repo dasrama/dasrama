@@ -21,12 +21,14 @@
   <img src="https://github.com/dasrama/dasrama/blob/main/python.png" alt="python" width="40" height="40"/>  
   <img src="https://github.com/dasrama/dasrama/blob/main/FastAPI.svg" width="40" height="40"/>
   <img src="https://github.com/dasrama/dasrama/blob/main/pyflask.png" width="40" height="40"/> 
+  <img src="https://github.com/dasrama/dasrama/blob/main/mongodb.svg" alt="mongodb" width="40" height="40"/>  
   <img src="https://github.com/dasrama/dasrama/blob/main/PostgresSQL.svg" alt="postgresql" width="40" height="40"/>  
   <img src="https://github.com/dasrama/dasrama/blob/main/git.png" alt="git" width="40" height="40"/>
   <img src="https://github.com/dasrama/dasrama/blob/main/html-5.png" alt="html5" width="50" height="50"/> 
   <img src="https://github.com/dasrama/dasrama/blob/main/social.png" alt="css" width="40" height="40"/>
   <img src="https://github.com/dasrama/dasrama/blob/main/js.png" alt="javascript" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+  <img src="https://github.com/dasrama/dasrama/blob/main/ngrok.svg" alt="ngrok" width="40" height="40"/>  
 </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dasrama&" alt="dasrama" /></p>
