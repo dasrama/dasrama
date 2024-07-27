@@ -28,7 +28,7 @@
   <img src="https://github.com/dasrama/dasrama/blob/main/social.png" alt="css" width="40" height="40"/>
   <img src="https://github.com/dasrama/dasrama/blob/main/js.png" alt="javascript" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-  <img src="https://github.com/dasrama/dasrama/blob/main/ngrok.svg" alt="ngrok" width="40" height="40"/>  
+  <img src="https://github.com/dasrama/dasrama/blob/main/ngrok-white.svg" alt="ngrok" width="40" height="40"/>  
 </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dasrama&" alt="dasrama" /></p>
