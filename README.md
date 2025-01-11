@@ -6,7 +6,7 @@
 
 - ✌️ I’m currently learning **FastAPI**
 
-- 🙌 How to reach me **ramadas4736@gmail.com**
+- 🙌 How to reach me **ramaprasad047@gmail.com**
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
