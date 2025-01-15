@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rama Prasad Das</h1>
-<h3 align="center">A passionate software developer from India</h3>
+<h3 align="center">Debugging life, one line of code at a time.</h3>
 <img align="right" width="400" src="https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif" alt="coding" style="margin-left: 20px;">
 
 - 👉 I’m currently working on **BLOGBOX (Blog API)**
