@@ -24,7 +24,7 @@
   <img src="https://github.com/dasrama/dasrama/blob/main/mongodb.svg" alt="mongodb" width="40" height="40"/>  
   <img src="https://github.com/dasrama/dasrama/blob/main/PostgresSQL.svg" alt="postgresql" width="40" height="40"/>  
   <img src="https://github.com/dasrama/dasrama/blob/main/git.png" alt="git" width="40" height="40"/>
-  <img src="https://github.com/dasrama/dasrama/blob/main/git.png" alt="git" width="40" height="40"/>
+  <img src="https://github.com/dasrama/dasrama/blob/main/icons8-aws-logo-48.png" alt="git" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
   <img src="https://github.com/dasrama/dasrama/blob/main/ngrok-white.svg" alt="ngrok" width="40" height="40"/>  
 </p>
