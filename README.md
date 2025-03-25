@@ -2,9 +2,9 @@
 <h3 align="center">Debugging life, one line of code at a time.</h3>
 <img align="right" width="400" src="https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif" alt="coding" style="margin-left: 20px;">
 
-- 👉 I’m currently working on **BLOGBOX (Blog API)**
+- 👉 I’m currently working on **HEAL-AI (Chatbot)**
 
-- ✌️ I’m currently learning **FastAPI**
+- ✌️ I’m currently learning **AWS**
 
 - 🙌 How to reach me **ramaprasad047@gmail.com**
   
@@ -24,9 +24,7 @@
   <img src="https://github.com/dasrama/dasrama/blob/main/mongodb.svg" alt="mongodb" width="40" height="40"/>  
   <img src="https://github.com/dasrama/dasrama/blob/main/PostgresSQL.svg" alt="postgresql" width="40" height="40"/>  
   <img src="https://github.com/dasrama/dasrama/blob/main/git.png" alt="git" width="40" height="40"/>
-  <img src="https://github.com/dasrama/dasrama/blob/main/html-5.png" alt="html5" width="50" height="50"/> 
-  <img src="https://github.com/dasrama/dasrama/blob/main/social.png" alt="css" width="40" height="40"/>
-  <img src="https://github.com/dasrama/dasrama/blob/main/js.png" alt="javascript" width="40" height="40"/>
+  <img src="https://github.com/dasrama/dasrama/blob/main/git.png" alt="git" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
   <img src="https://github.com/dasrama/dasrama/blob/main/ngrok-white.svg" alt="ngrok" width="40" height="40"/>  
 </p>
