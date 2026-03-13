@@ -4,8 +4,6 @@
 
 - 👉 I’m currently working on **HEAL-AI (Chatbot)**
 
-- ✌️ I’m currently learning **AWS**
-
 - 🙌 How to reach me **ramaprasad047@gmail.com**
   
 <h3 align="left">Connect with me:</h3>
