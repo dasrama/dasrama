@@ -2,7 +2,8 @@
 <h3 align="center">Debugging life, one line of code at a time.</h3>
 <img align="right" width="400" src="https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif" alt="coding" style="margin-left: 20px;">
 
-- 🙌 How to reach me **ramaprasad047@gmail.com**
+- Portfolio: **[https://your-portfolio-link.com](https://dasrama.github.io/portfolio/)**
+- How to reach me **ramaprasad047@gmail.com**
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
