@@ -5,7 +5,9 @@
 - Portfolio: <a href="https://dasrama.github.io/portfolio/" target="_blank" rel="noopener noreferrer">
   https://dasrama.github.io/portfolio/
 </a>
-- How to reach me **ramaprasad047@gmail.com**
+- How to reach me <a href="mailto:ramaprasad047@gmail.com" target="_blank" rel="noopener noreferrer">
+  ramaprasad047@gmail.com
+</a>
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
