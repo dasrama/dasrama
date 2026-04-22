@@ -2,7 +2,9 @@
 <h3 align="center">Debugging life, one line of code at a time.</h3>
 <img align="right" width="400" src="https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif" alt="coding" style="margin-left: 20px;">
 
-- Portfolio: **[https://dasrama.github.io/portfolio](https://dasrama.github.io/portfolio/)**
+- Portfolio: <a href="https://dasrama.github.io/portfolio/" target="_blank" rel="noopener noreferrer">
+  https://dasrama.github.io/portfolio/
+</a>
 - How to reach me **ramaprasad047@gmail.com**
   
 <h3 align="left">Connect with me:</h3>
