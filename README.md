@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Rama Prasad Das</h1>
+<h1 align="center">Hi 👋 Rama Prasad Das</h1>
 <h3 align="center">Debugging life, one line of code at a time.</h3>
 <img align="right" width="400" src="https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif" alt="coding" style="margin-left: 20px;">
 
 - Portfolio: <a href="https://dasrama.github.io/portfolio/" target="_blank" rel="noopener noreferrer">
   https://dasrama.github.io/portfolio/
 </a>
-- How to reach me <a href="mailto:ramaprasad047@gmail.com" target="_blank" rel="noopener noreferrer">
+- Reach out to me: <a href="mailto:ramaprasad047@gmail.com" target="_blank" rel="noopener noreferrer">
   ramaprasad047@gmail.com
 </a>
   
